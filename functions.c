@@ -3,6 +3,7 @@
 /************************* PRINT CHAR *************************/
 
 /**
+ *This project is very helpful
  * print_char - Prints a char
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
